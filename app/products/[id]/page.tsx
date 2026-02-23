@@ -29,7 +29,7 @@ export default function ProductDetailPage() {
 
     return (
         <div className="max-w-4xl mx-auto px-4 py-8 space-y-4">
-            <Button onClick={() => router.push("/products")}>
+            <Button onClick={() => router.push("/")}>
                 Volver a la lista
             </Button>
 
